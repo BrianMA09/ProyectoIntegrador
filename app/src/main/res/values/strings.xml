@@ -1,3 +1,182 @@
 <resources>
     <string name="app_name">CacoLearn</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login_olvidar"><u>Olvidaste tu contraseña</u></string>
+    <string name="login_registrar"><u>Regístrate</u></string>
+    <string name="desc_logo_cacolearn">Logo CacoLearn</string>
+    <string name="splash_slogan">¡Aprende jugando!</string>
+    <string name="app_version">v1.0</string>
+
+    <!-- Drawer and Navigation Strings -->
+    <string name="drawer_welcome">Bienvenido</string>
+    <string name="drawer_username">Mario Alejandro</string>
+    <string name="drawer_useremail">correo@gmail.com</string>
+    <string name="drawer_admin_profile">Administrar mi perfil</string>
+    <string name="drawer_change_password">Cambiar Contraseña</string>
+    <string name="drawer_item_inicio">Inicio</string>
+    <string name="drawer_item_region">Mi región</string>
+    <string name="drawer_item_curso">Curso</string>
+    <string name="drawer_item_vocabulario">Vocabulario</string>
+    <string name="drawer_item_juegos">Juegos</string>
+    <string name="drawer_open_menu">Abrir menú</string>
+    <string name="home_greeting">Hats\'i, Brian</string>
+    <string name="home_welcome">¡Bienvenido a CacoLearn!</string>
+    <string name="home_start_title">Inicio de la Aplicación</string>
+    <string name="home_start_subtitle">Usa el menú lateral para navegar a tus lecciones, vocabulario y juegos.</string>
+    <string name="home_quick_sections">Secciones Rápidas</string>
+    <string name="home_sub_region">Explora la cultura e historia regional</string>
+    <string name="home_sub_curso">Accede a tus lecciones principales</string>
+    <string name="home_sub_vocabulario">Aprende palabras y pronunciación</string>
+    <string name="home_sub_juegos">Practica jugando y divirtiéndote</string>
+    <string name="abrir_menu">Abrir menú</string>
+    <string name="cerrar_menu">Cerrar menú</string>
+
+    <!-- Home Screen Sections -->
+    <string name="home_progress_title">Progreso</string>
+    <string name="home_stat_streak">14 días</string>
+    <string name="home_stat_xp">777 XP</string>
+    <string name="home_stat_league">Liga Ñähñu</string>
+    <string name="home_unit_title">Unidad 2: Familia</string>
+    <string name="home_continue_title">Continúa: Familia</string>
+    <string name="home_continue_sub">Lección 3 de 5</string>
+    <string name="home_btn_ir">Ir</string>
+    <string name="home_word_title">PALABRA DEL DÍA</string>
+    <string name="home_word_content">mpädi - \"Amigo\"</string>
+    <string name="home_did_you_know_title">¿Sabías que?</string>
+    <string name="home_did_you_know_desc">No existe un solo \"otomí\". El Instituto Nacional de Lenguas Indígenas reconoce al menos 9 variantes diferentes en el país, siendo la del Mezquital la más hablada.</string>
+    <string name="home_caco_plus">Obten ya\nCacolearn+</string>
+
+    <!-- Mi Región Strings -->
+    <string name="region_title">Mi región</string>
+    <string name="region_otomi">Otomí</string>
+    <string name="region_origen">Origen</string>
+    <string name="region_cultura">Cultura</string>
+    <string name="region_tradiciones">Tradiciones</string>
+    <string name="region_florafauna">Flora y Fauna</string>
+    <string name="region_galeria">Galería</string>
+
+    <!-- Otomí Screen Strings -->
+    <string name="otomi_why_title">¿Por qué aprender Otomí (Hñähñu)?</string>
+    <string name="otomi_why_body">Esta app nace con el propósito de preservar, revitalizar y compartir la riqueza lingüística y cultural del pueblo Otomí a través de lecciones dinámicas y juegos.</string>
+    <string name="otomi_variants_title">Clasificación de Variantes Regionales.</string>
+    <string name="otomi_v1_name">Hñähñu</string>
+    <string name="otomi_v1_loc">Valle del Mezquital, Hidalgo</string>
+    <string name="otomi_v1_sub">Variante más extendida</string>
+    <string name="otomi_v2_name">Ñätho</string>
+    <string name="otomi_v2_loc">Estado de México / Toluca</string>
+    <string name="otomi_v2_sub">Hablada en el Edomex</string>
+    <string name="otomi_v3_name">Ñäñho</string>
+    <string name="otomi_v3_loc">Querétaro / Guanajuato</string>
+    <string name="otomi_v3_sub">Registrada en Amealco</string>
+    <string name="otomi_v4_name">Ñühü</string>
+    <string name="otomi_v4_loc">Sierra Norte de Puebla</string>
+    <string name="otomi_v4_sub">Variante zona oriental</string>
+
+    <!-- Origen Screen Strings -->
+    <string name="origen_intro">Los otomíes de Ixmiquilpan son el corazón cultural del Valle del Mezquital. Desde tiempos prehispánicos, el pueblo Hñähñu habitó este territorio estratégico, funcionando como un puente natural entre las zonas áridas del norte y los valles fértiles del centro del país.</string>
+    <string name="origen_name_title">Origen del Nombre.</string>
+    <string name="origen_name_body">• Zutkani (Otomí): Nombre ancestral que significa "Lugar de las verdolagas". Su glifo tradicional se representaba con un rectángulo dividido en cuatro partes.</string>
+    <string name="origen_colonia_title">De la Colonia a las Comunidades</string>
+    <string name="origen_colonia_body">La fundación hispánica de la ciudad se dio entre 1550 y 1560 con la construcción del Templo y Ex Convento de San Miguel Arcángel por los frailes agustinos. La organización territorial pasó de un control religioso a uno político que hoy integra 110 comunidades y colonias (o "manzanas").</string>
+
+    <!-- Placeholder Strings for Images -->
+    <string name="placeholder_map_otomi">Espacio para Imagen del Mapa de Variantes</string>
+    <string name="placeholder_glifo_zutkani">Espacio Glifo\nZutkani</string>
+    <string name="placeholder_foto_historica">Espacio para Fotografía Histórica de Ixmiquilpan</string>
+    <string name="placeholder_convento">Espacio para Imagen del Ex Convento de Ixmiquilpan</string>
+    <string name="placeholder_modern_1">Espacio Imagen\nTeatro / Palacio</string>
+    <string name="placeholder_modern_2">Espacio Imagen\nPuente El Maye</string>
+    <string name="placeholder_diana">Espacio para Imagen de La Diana Cazadora</string>
+    <string name="placeholder_cultura_1">Espacio para Imagen de Cosmovisión y Medicina</string>
+    <string name="placeholder_cultura_2">Espacio Foto 1</string>
+    <string name="placeholder_cultura_3">Espacio Foto 2</string>
+    <string name="placeholder_cultura_4">Espacio para Imagen de Artesanías Hñähñu</string>
+
+    <!-- Additional Origen Strings -->
+    <string name="origen_geo_title">Entorno Geográfico y Cosmovisión</string>
+    <string name="origen_geo_body1">• El pueblo Hñähñu se estableció en una geografía de contrastes, donde zonas áridas conviven con un río fértil y un subsuelo rico en manantiales de aguas termales. Esta abundancia hídrica convirtió a la región en un oasis estratégico para el desarrollo comunitario.</string>
+    <string name="origen_geo_body2">• El origen cultural de la comunidad se fundamenta en el idioma hñähñu y una profunda cosmovisión orientada al respeto por la naturaleza, venerando la tierra, el agua y los elementos naturales. Su herencia viva se manifiesta a través de un calendario ceremonial agrícola y la elaboración de artesanías en textil y cerámica.</string>
+    <string name="origen_evangel_title">Origen Colonial y Evangelización</string>
+    <string name="origen_evangel_body1">• Inicios (1548): La evangelización agustina comenzó tras la fundación del convento de Actopan.</string>
+    <string name="origen_evangel_body2">• Fundación: El convento de Ixmiquilpan fue erigido bajo la dirección de Fray Andrés de Mata y Fray Alonso de la Veracruz.</string>
+    <string name="origen_evangel_body3">• Centro de Estudios (1572): Se convirtió en la sede educativa de la provincia hasta su secularización en el siglo XVIII.</string>
+    <string name="origen_events_title">Acontecimientos Históricos</string>
+    <string name="origen_events_body1">• Revolución Mexicana: Surgieron rebeliones indígenas en zonas como Orizaba y Los Remedios, encabezadas por Sotero Lozano.</string>
+    <string name="origen_events_body2">• Modernización: En el siglo XX se construyeron el Palacio Municipal, el Teatro Hidalgo, el puente del Barrio del Maye y la vía del ferrocarril a El Nith.</string>
+    <string name="origen_events_body3">• Símbolo Local: En 1970 se instaló en la plaza principal la escultura original en bronce de La Diana Cazadora, donada a su tierra natal por el político ixmiquilpense Alfonso Corona del Rosal.</string>
+
+    <!-- Cultura Strings -->
+    <string name="cultura_t1_title">Lengua Hñähñu: La Voz Originaria</string>
+    <string name="cultura_t1_body">El pueblo originario se autodenomina Hñähñu (\"los que hablan la lengua nasal\"). Ixmiquilpan es el municipio con mayor cantidad de hablantes de esta variante en el Valle del Mezquital (región conocida en otomí como B\'otáhi). Es una lengua tonal y nasal de la familia otomangue que se ha preservado a lo largo de los siglos.</string>
+    <string name="cultura_t2_title">Cosmovisión y Medicina Tradicional</string>
+    <string name="cultura_t2_body">La relación con la naturaleza es sagrada: se venera a la tierra, al agua y a los elementos. Su espiritualidad entrelaza tradiciones ancestrales con el cristianismo, expresada en el respeto por los nzqhkí (fuerzas o seres de la naturaleza) y el uso de la medicina tradicional mediante el temazcal, plantas curativas, parteras y hueseros.</string>
+    <string name="cultura_t3_title">Organización Social.</string>
+    <string name="cultura_t3_body">Las familias otomíes por lo general son extensas (de siete a quince personas) y su organización es patrilocal, es decir, los hijos casados, después de vivir un tiempo con sus padres, construyen su propia vivienda, la mayoría de las veces en un terreno cedido por éstos. Sus casas están compuestas de una o dos piezas que sirven de estancia, comedor y dormitorio.</string>
+    <string name="cultura_t4_title">Alimentación.</string>
+    <string name="cultura_t4_body">La alimentación entre los otomíes se basa en el maíz, el pulque, el nopal y el frijol. En general, la dieta doméstica se compone de verduras cosechadas en el huerto familiar y, si la situación lo permite, de un poco de carne. El maguey se utiliza íntegramente como alimento, por ejemplo, el pulque y la flor de maguey son dos de los productos que se consumen de forma cotidiana.</string>
+    <string name="cultura_t5_title">La importancia del Maguey</string>
+    <string name="cultura_t5_body">El maguey forma parte de la economía básica a nivel familiar, de sus hojas, se obtiene la fibra de ixtle para elaborar estropajos, ayates y lazos, además del pulque, para autoconsumo y venta; por otra parte, el maíz sigue siendo una planta que no deja de sembrarse, ante todo para el autoconsumo de la unidad doméstica, y los excedentes se destinan al mercado.</string>
+    <string name="cultura_t6_title">Artesanías y Manos Hñähñu</string>
+    <string name="cultura_t6_body">Fibras de Maguey (Ixtle): Extracción manual de la fibra de las pencas para el hilado y tejido de morrales, ayates y prendas tradicionales.
+Materiales de la región creación de piezas utilitarias y rituales elaboradas con barro, basalto, cera de abeja, jarilla y palma.</string>
+
+    <!-- Tradiciones Strings -->
+    <string name="trad_cat_1_title">Fiestas y Rituales Sagrados</string>
+    <string name="trad_cat_1_sub">El Valle del Mezquital cuenta con un calendario ritual de profundo valor cultural.</string>
+    <string name="trad_cat_2_title">Gastronomía y Pulque</string>
+    <string name="trad_cat_2_sub">Sabor a Maguey y Mezquite. La cocina tradicional une los elementos naturales del semidesierto.</string>
+    <string name="trad_cat_3_title">Arte Popular y Vestimenta</string>
+    <string name="trad_cat_3_sub">Artesanías e Ixtle. El trabajo artesanal aprovecha los recursos naturales de la región.</string>
+
+    <!-- Sub-Tradiciones: Fiestas -->
+    <string name="trad_fiestas_p1">• Señor de Jalpan (15 de agosto): Es la fiesta central de Ixmiquilpan. Inicia a las 5:00 a.m. con el \"Anuncio de la Aurora\" y el encendido de los hachones (haces de agave en llamas), un ritual vinculado al Fuego Nuevo prehispánico.</string>
+    <string name="trad_fiestas_p2">• Cruces en los Cerros y Xantolo: El 2 de mayo se asciende a las cumbres para solicitar buenas lluvias, mientras que en el Xantolo (Día de Muertos Hñähñu) se entonan cantos y oraciones en lengua materna para honrar a los ancestros.</string>
+    <string name="trad_fiestas_p3">• Sistema de Mayordomías: Los mayordomos y cargueros coordinan la logística, comida y música de las festividades patronales, asegurando la cohesión comunitaria. El Moshte: Sistema ancestral de ayuda mutua donde la comunidad se une para colaborar en cosechas, festejos y velorios.</string>
+    <string name="trad_fiestas_p4">• Compadrazgo y Matrimonio: El bautizo crea la alianza simbólica y social más sólida de la comunidad, reforzando la red familiar extensible.</string>
+
+    <!-- Sub-Tradiciones: Gastronomía -->
+    <string name="trad_gastro_p1">• Principios y Ritualidad: Respeto a la Tierra (La caza y la recolección no eran casuales, sino ritos comunitarios regulados por el calendario ceremonial y la temporalidad de la flora local).</string>
+    <string name="trad_gastro_p2">• Sello Gastronómico: Las gorditas rellenas de quelites otorgaron a Ixmiquilpan la distinción de \"Pueblo con Sabor\".</string>
+    <string name="trad_gastro_p3">• Barbacoa y Ximbó: Platillos icónicos horneados bajo tierra envolviendo carnes en pencas de maguey.</string>
+    <string name="trad_gastro_p4">• Insectos del Semidesierto: Consumo activo de fauna nativa como escamoles (huevos de hormiga), chinicuiles (gusanos de maguey), xamues (gusanos de mezquital) y chinches de mezquite.</string>
+    <string name="trad_gastro_p5">• Bebidas Tradicionales: Aguamiel, pulque tradicional (Pulcal), mezcal e hidromiel. Destacan las infusiones curativas de toronjil, gordolobo y ruda, además de los atoles de temporada y la kombucha de Santo Domingo con miel.</string>
+
+    <!-- Flora y Fauna Strings -->
+    <string name="flora_cat_1_title">Flora y Plantas de Uso Ancestral</string>
+    <string name="flora_cat_2_title">Fauna Nativa y Riqueza Silvestre</string>
+    <string name="flora_cat_3_title">Ganadería y Vida Comunitarias Hñähñu</string>
+
+    <!-- Sub-Flora: Plantas -->
+    <string name="flora_plantas_p1">• Diversidad Vegetal: A pesar del clima semiárido, la región alberga más de 500 especies de plantas (registradas en zonas como El Alberto).</string>
+    <string name="flora_plantas_p2">• Especies Dominantes: Matorral espinoso, garambullos, nopales, mezquites y pirules.</string>
+    <string name="flora_plantas_p3">• Plantas de Valor Cultural y Económico:\n  - Lechuguilla y Maguey: Fuente principal de fibra para el tallado de ixtle (actividad clave en comunidades como El Botho) y producción de pulque.\n  - Mezquite: Usado tradicionalmente como leña para la cocción de la barbacoa y como sombra para el ganado.\n  - Herbolaria Tradicional: Uso de toronjil, gordolobo, ruda, quelites y xoconostle con fines medicinales.</string>
+
+    <!-- Sub-Flora: Fauna -->
+    <string name="flora_fauna_p1">• Mamíferos y Aves: Hábitat de coyotes, cacomixtles, tlacuaches, liebres, águilas reales y colibríes.</string>
+    <string name="flora_fauna_p2">• Especies Protegidas: La región resguarda especies amenazadas o endémicas como el murciélago trompudo, el cacomixtle norteño y la liebre cola negra.</string>
+    <string name="flora_fauna_p3">• Reptiles e Insectos: Presencia de serpientes de cascabel, lagartijas y una amplia variedad de artrópodos. Destacan los insectos comestibles como escamoles, chinicuiles y xamues.</string>
+
+    <!-- Sub-Flora: Ganadería -->
+    <string name="flora_ganaderia_p1">• Sistema Tradicional Multi-actividad: La ganadería es de pequeña escala y se combina con la agricultura, el pastoreo y la recolección.</string>
+    <string name="flora_ganaderia_p2">• Crianza de Especies: Destaca la producción ovina (borregos destinados a la barbacoa), caprina y animales de traspatio (gallinas, guajolotes y conejos).</string>
+    <string name="flora_ganaderia_p3">• Caza de Autoconsumo: Practicada de forma sustentable para la obtención de carne (como el conejo para el caldo githe).</string>
+    <string name="flora_ganaderia_p4">• Organización del Trabajo:\n  - Roles Familiares: Los hombres realizan corrales y pastoreo; las mujeres gestionan el traspatio y la recolección.\n  - Bordos (Jadó): Presas comunitarias construidas para recolectar agua de lluvia destinada al riego y abrevadero del ganado.</string>
+
+    <!-- Galería Strings -->
+    <string name="galeria_item_1_title">Gastronomía.</string>
+    <string name="galeria_item_1_sub">Platillos del valle del Mezquital</string>
+    <string name="galeria_item_2_title">Grutas de Tolantongo.</string>
+    <string name="galeria_item_2_sub">Las grutas de Tolantongo se encuentran en Ixmiquilpan</string>
+    <string name="galeria_item_3_title">Rä kuhi rä xätä .</string>
+    <string name="galeria_item_3_sub">Nopales en el Valle del Mezquital</string>
+    <string name="galeria_item_4_title">Arte del Valle de Mezquital.</string>
+    <string name="galeria_item_4_sub">Una muestra del arte del Valle del Mezquital</string>
+    <string name="galeria_item_5_title">Centro de Cardonal.</string>
+    <string name="galeria_item_5_sub">Cardonal, Hidalgo</string>
+    <string name="galeria_item_6_title">Parque Acuático El Tephé</string>
+    <string name="galeria_item_6_sub">Parque acuático en Ixmiquilpan</string>
+    <string name="galeria_item_7_title">Granadas.</string>
+    <string name="galeria_item_7_sub">De Tlacotlapilco , Hidalgo.</string>
+    <string name="galeria_item_8_title">Milpa de Maíz</string>
+    <string name="galeria_item_8_sub">Agricultura del valle del Mezquital.</string>
 </resources>

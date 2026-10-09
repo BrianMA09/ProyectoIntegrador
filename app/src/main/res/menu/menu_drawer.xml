@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/menu_inicio"
+            android:icon="@drawable/ic_drawer_home"
+            android:title="@string/drawer_item_inicio" />
+        <item
+            android:id="@+id/menu_region"
+            android:icon="@drawable/ic_drawer_agave"
+            android:title="@string/drawer_item_region" />
+        <item
+            android:id="@+id/menu_curso"
+            android:icon="@drawable/ic_drawer_course"
+            android:title="@string/drawer_item_curso" />
+        <item
+            android:id="@+id/menu_vocabulario"
+            android:icon="@drawable/ic_drawer_vocabulary"
+            android:title="@string/drawer_item_vocabulario" />
+        <item
+            android:id="@+id/menu_juegos"
+            android:icon="@drawable/ic_drawer_games"
+            android:title="@string/drawer_item_juegos" />
+    </group>
+</menu>

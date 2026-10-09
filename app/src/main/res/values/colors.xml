@@ -2,4 +2,39 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="boton">#103a0b</color>
+
+    <color name="v_oscuro">#14330B</color>
+    <color name="v_medio">#285918</color>
+    <color name="v_claro">#468C2B</color>
+    <color name="v_suave">#A9D196</color>
+    <color name="v_blanco">#D5EAD0</color>
+    <color name="v_selva">#0A4D22</color>
+    <color name="v_brillo">#6BBF59</color>
+
+    <color name="c_base">#FFFDF6</color>
+    <color name="c_arena">#F5EFE0</color>
+    <color name="c_oscuro">#E6DCB8</color>
+
+    <color name="c_oro">#F4E2AC</color>
+    <color name="c_vaini">#FFF5CC</color>
+    <color name="c_sol">#FCEAA6</color>
+    <color name="c_mosta">#E5C158</color>
+    <color name="c_miel">#F1D58B</color>
+
+    <color name="vc_seco">#8E9973</color>
+    <color name="vc_te">#C2CBB5</color>
+    <color name="vc_borde">#D5DACB</color>
+
+    <color name="fondo">#9eb89a</color>
+    <color name="menu_inf">#386523</color>
+
+    <!-- Navigation Drawer Colors -->
+    <color name="drawer_bg">#F2EFE3</color>
+    <color name="drawer_item_bg">#DFE3D5</color>
+    <color name="drawer_card_header">#DFE3D5</color>
+    <color name="drawer_green_dark">#11320B</color>
+    <color name="drawer_green_sq">#194011</color>
+    <color name="drawer_text_dark">#203318</color>
+    <color name="drawer_text_sub">#55684D</color>
 </resources>
